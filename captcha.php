@@ -1,7 +1,7 @@
 <?php
 /* 全局 CF 配置 */
-const CF_SITE   = '0x4AAAAAACKZ9y_Q-q8alRYy';
-const CF_SECRET = '0x4AAAAAACKZ93_OeJqUBOzVRN5NQdm0TuQ';
+const CF_SITE   = 'xxxxxxxxxxxxx';
+const CF_SECRET = 'xxxxxxxxxxxxxx';
 
 /* 统一验证函数 */
 function cf_verify(string $response): bool

@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $error = $res['message'];
     }
 }
-$cfSiteKey = '0x4AAAAAACKZ9y_Q-q8alRYy';   // 替换成你的 Site Key
+$cfSiteKey = 'xxxxxxxxxxxxxx';   // 替换成你的 Site Key
 ?>
 <!DOCTYPE html>
 <html lang="zh-CN">
