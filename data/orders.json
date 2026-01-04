@@ -1,0 +1,14 @@
+[
+    {
+        "id": "order_6958925467f89",
+        "user_id": "69589231af3a5",
+        "username": "112233",
+        "plan_id": "trial",
+        "plan_name": "免费试用",
+        "months": 1,
+        "price": 0,
+        "status": "approved",
+        "created_at": "2026-01-03 11:51:48",
+        "approved_at": "2026-01-03 11:52:57"
+    }
+]

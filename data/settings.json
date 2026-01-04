@@ -1,0 +1,8 @@
+{
+  "site_name": "VIP会员系统",
+  "vip_prices": {
+    "monthly": 29.9,
+    "quarterly": 79.9,
+    "yearly": 299.9
+  }
+}

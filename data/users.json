@@ -1,0 +1,22 @@
+[
+    {
+        "id": "695664316ab0b",
+        "username": "admin",
+        "email": "mahuateng@duck.com",
+        "password": "$2y$10$XeK8tXpoVg7zcnaCzHiRxObqDSbyyrT3b2ebzZVnrj7uAKFwLwDW6",
+        "vip_expire": "2027-01-03 12:06:21",
+        "vip_type": "管理员设置",
+        "created_at": "2026-01-01 20:10:25",
+        "status": "active"
+    },
+    {
+        "id": "69589231af3a5",
+        "username": "112233",
+        "email": "xuezhiqian007@gmail.com",
+        "password": "$2y$10$MtWSsPI159ugsaoC6akzCO1dlMJDW7o1SwaDBmjyqO1dayV.Uwza2",
+        "vip_expire": "2026-02-03 11:52:57",
+        "vip_type": "免费试用",
+        "created_at": "2026-01-03 11:51:13",
+        "status": "active"
+    }
+]

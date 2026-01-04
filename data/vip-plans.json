@@ -1,0 +1,38 @@
+[
+  {
+    "id": "trial",
+    "name": "免费试用",
+    "months": 1,
+    "price": 0,
+    "description": "1个月免费体验，需管理员审核",
+    "popular": true,
+    "needs_review": true
+  },
+  {
+    "id": "monthly",
+    "name": "月费VIP",
+    "months": 1,
+    "price": 29.9,
+    "description": "适合短期使用",
+    "popular": false,
+    "needs_review": true
+  },
+  {
+    "id": "quarterly",
+    "name": "季费VIP",
+    "months": 3,
+    "price": 79.9,
+    "description": "推荐套餐，性价比高",
+    "popular": false,
+    "needs_review": true
+  },
+  {
+    "id": "yearly",
+    "name": "年费VIP",
+    "months": 12,
+    "price": 299.9,
+    "description": "最优惠，长期首选",
+    "popular": false,
+    "needs_review": true
+  }
+]
